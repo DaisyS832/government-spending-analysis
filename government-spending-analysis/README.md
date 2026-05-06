@@ -152,6 +152,8 @@ government-spending-analysis/
 │
 ├── README.md
 └── .gitignore
+```
+
 
 ## Data Accessibility
 
