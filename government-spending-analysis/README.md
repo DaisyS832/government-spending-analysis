@@ -82,25 +82,25 @@ The preview above shows the cleaned DMV-focused federal contract dataset after p
 
 ### Federal Contract Spending by DMV State
 
-![Federal Spending by State](government-spending-analysis/images/spending_by_state.png)
+![Federal Spending by State](images/spending_by_state.png)
 
 This visualization compares total federal contract spending across Maryland, Virginia, and Washington, DC.
 
 ### Top Awarding Agencies
 
-![Top Agencies](government-spending-analysis/images/top_agencies.png)
+![Top Agencies](images/top_agencies.png)
 
 This visualization highlights the agencies responsible for the highest federal contract spending within the DMV dataset.
 
 ### Top Contract Recipients
 
-![Top Recipients](government-spending-analysis/images/top_recipients.png)
+![Top Recipients](images/top_recipients.png)
 
 This chart identifies the organizations and contractors receiving the largest federal contract values.
 
 ### Top Industries by Contract Value
 
-![Top Industries](government-spending-analysis/images/top_industries.png)
+![Top Industries](images/top_industries.png)
 
 This visualization shows the industries receiving the highest overall contract funding across the DMV region.
 
