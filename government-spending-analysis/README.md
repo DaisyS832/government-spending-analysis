@@ -74,7 +74,7 @@ The cleaning workflow included:
 
 ## Data Preview
 
-![Data Preview](government-spending-analysis/images/data_preview.png)
+![Data Preview](images/data_preview.png)
 
 The preview above shows the cleaned DMV-focused federal contract dataset after processing and filtering.
 
